@@ -2,6 +2,16 @@
 
 Ce projet est une application web backend pour la gestion des écoles de danse, développée en utilisant le modèle Modèle-Vue-Contrôleur (MVC) avec les langages PHP, CSS et HTML. 
 
+# Base de Données - Conception
+
+## Diagramme UML (Entité/Association)
+
+![Diagramme UML](data/UML.png)
+
+Le diagramme UML ci-dessus illustre la conception de la base de données pour le projet de gestion des écoles de danse. Il représente les entités et les associations entre elles, offrant une vue claire de la structure de la base de données.
+
+La base de données a été implémentée en utilisant PHPMyAdmin comme plateforme de gestion de base de données, garantissant une gestion efficace et sécurisée des informations relatives aux écoles de danse.
+
 ## Technologies Utilisées
 - **Modèle-Vue-Contrôleur (MVC)**
 - **Langages:** PHP, CSS, HTML
