@@ -26,8 +26,16 @@ Ce projet est une application web backend pour la gestion des écoles de danse, 
 ## Configuration
 1. Éditez `/config/config.php` pour les paramètres de la base de données.
 
-## Contribuer
-Contributions bienvenues. Ouvrez une issue pour discuter des changements majeurs.
+## Capture
+
+![Avatar Pixel Art](data/exemple.png)
+
+## Vidéo de Prévisualisation
+
+[![Preview Video](https://img.youtube.com/vi/VK_gGpmT_Hk/0.jpg)](https://www.youtube.com/watch?v=VK_gGpmT_Hk)
+
+Cliquez sur l'image ci-dessus pour regarder la vidéo de prévisualisation.
 
 ## Licence
-Sous licence [MIT](LICENSE).
+
+Ce projet est sous licence GNU AGPLv3. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
