@@ -32,7 +32,7 @@ Ce projet est une application web backend pour la gestion des écoles de danse, 
 
 ## Vidéo de Prévisualisation
 
-[![Preview Video](https://img.youtube.com/vi/VK_gGpmT_Hk/0.jpg)](https://www.youtube.com/watch?v=VK_gGpmT_Hk)
+[![Preview Video](https://img.youtube.com/vi/CZWFTZ5eIEU/0.jpg)](https://www.youtube.com/watch?v=CZWFTZ5eIEU)
 
 Cliquez sur l'image ci-dessus pour regarder la vidéo de prévisualisation.
 
