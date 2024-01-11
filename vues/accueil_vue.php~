@@ -1,0 +1,18 @@
+<main>
+	
+
+	<p>Bienvenue...</p>
+	<p>Vous êtes sur le site modifié par Sara </p>
+	</br>
+	<p>  Ce site a été réalisé dans le cadre de l’UE BDW c'est le tp numero 4</p>
+	<p id="accueil_description"> Ce site permet de visualiser des données </p>
+<img src="img/LogoLyon-1-Claude-Bernard.png" alt="UCBL"/>
+<a href="https://www.univ-lyon1.fr/"target="_blank"> <img src="img/LogoLyon-1-Claude-Bernard.png" alt="UCBL"/> </a>
+
+</main>
+
+
+
+
+
+
