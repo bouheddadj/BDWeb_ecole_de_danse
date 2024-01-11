@@ -28,7 +28,7 @@ Ce projet est une application web backend pour la gestion des écoles de danse, 
 
 ## Capture
 
-![Avatar Pixel Art](data/exemple.png)
+![Avatar Pixel Art](data/bdweb.png)
 
 ## Vidéo de Prévisualisation
 
